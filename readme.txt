@@ -1,5 +1,4 @@
-Author: Klára Frolichová <info@sunlight.cz>
-http://www.sunlight.cz
+
 
 Requirements
 ---------------------------------------------------------------------------
@@ -32,7 +31,6 @@ As long as the above conditions are met
 -- You can use the templates for your company/corporate use.
 -- You can use the templates for your client's websites as long as the "Design by: Sunlight webdesign" text and it's link stays intact.
 
-Have a nice setup.
-SUnlight webdesign, www.sunlight.cz
+
 
 
